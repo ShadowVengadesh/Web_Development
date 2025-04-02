@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.container{
+    background-color: gray;
+    display: flex;
+    height: 90px;
+}
+.title-logo{
+    margin-right: 80px;
+    text-align: center;
+
+}
+.title-text{
+    margin-right: 50px;
+    display: inline;
+    text-align: center;
+}
+.list{
+    display: flex;
+    margin-left: 70px;
+    padding: 20px;
+    text-align: center;
+
+}
+li{
+    display: inline;
+    text-align: center;
+   padding: 20px;
+  margin-right: 25px; 
+}
+ul{
+    display: inline;
+    text-align: center;
+    
+}
+li:hover{
+    color:white;
+}
+input{
+    width: 850px;
+}
+.searchbar{
+    padding-top: 35px;
+    display: inline;
+    text-align: center;
+}
+.button{
+    padding-top: 35px;
+    display: inline;
+}
+.row1{
+    display: flex;
+    padding: 10px;
+}
+.row2{
+    display: flex;
+    padding: 10px;
+}
+.img{
+    width: 270px;
+    height: 350px;
+    padding: 50px;
+    border-style: solid;
+    border-color: black;
+}
+.click{
+    color: black;
+    text-decoration: none;
+}
+.click:hover{
+    color: blue;
+    text-decoration: underline;
+}
