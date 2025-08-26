@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\models\\acerestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\models\\acerestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\migrations\\20250816085135_attribute-change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\migrations\\20250816085135_attribute-change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\models\\keyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\models\\keyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\migrations\\20250815095241_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\migrations\\20250815095241_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\ace_restaurant.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\ace_restaurant.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|c:\\users\\ace\\onedrive\\documents\\project 0\\web_development\\ace_restaurant\\backend\\online restaruant order app\\ace_restaruant\\ace_restaruant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{666D9422-EF4A-4861-B238-E2F91D1E8D3D}|Ace_Restaruant\\Ace_Restaruant.csproj|solutionrelative:ace_restaruant\\ace_restaruant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250816085135_attribute-change.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Migrations\\20250816085135_attribute-change.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Migrations\\20250816085135_attribute-change.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Migrations\\20250816085135_attribute-change.cs",
+              "RelativeToolTip": "Ace_Restaruant\\Migrations\\20250816085135_attribute-change.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:51:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AceRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Models\\AceRestaurant.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Models\\AceRestaurant.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Models\\AceRestaurant.cs",
+              "RelativeToolTip": "Ace_Restaruant\\Models\\AceRestaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:06:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Program.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Program.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Program.cs",
+              "RelativeToolTip": "Ace_Restaruant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:10:14.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\appsettings.json",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\appsettings.json",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\appsettings.json",
+              "RelativeToolTip": "Ace_Restaruant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T09:01:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Ace_Restaruant\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAABQAAAAAzMzMzMz8vyYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:50:51.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ace_Restaruant\\DB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:56:46.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250815095241_i.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Migrations\\20250815095241_i.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Migrations\\20250815095241_i.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Migrations\\20250815095241_i.cs",
+              "RelativeToolTip": "Ace_Restaruant\\Migrations\\20250815095241_i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:52:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ace_Restaruant\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAADAAAAAAMAtwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T08:21:01.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "keyAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Models\\keyAttribute.cs",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Models\\keyAttribute.cs",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Models\\keyAttribute.cs",
+              "RelativeToolTip": "Ace_Restaruant\\Models\\keyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:25:19.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ace_Restaurant.http",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Ace_Restaurant.http",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Ace_Restaurant.http",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Ace_Restaurant.http",
+              "RelativeToolTip": "Ace_Restaruant\\Ace_Restaurant.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-14T08:27:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ace_Restaruant.csproj",
+              "DocumentMoniker": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Ace_Restaruant.csproj",
+              "RelativeDocumentMoniker": "Ace_Restaruant\\Ace_Restaruant.csproj",
+              "ToolTip": "C:\\Users\\ace\\OneDrive\\Documents\\project 0\\Web_Development\\Ace_restaurant\\backend\\online restaruant order app\\Ace_Restaruant\\Ace_Restaruant.csproj",
+              "RelativeToolTip": "Ace_Restaruant\\Ace_Restaruant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T08:28:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

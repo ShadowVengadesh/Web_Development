@@ -1,0 +1,24 @@
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+}
+.line {
+      position: relative;
+      cursor: pointer;
+      display: inline-block;
+    }
+
+    .line::after {
+      content: '';
+      position: absolute;
+      bottom: -5px;   /* distance from text */
+      left: 0;
+      width: 0;       /* start hidden */
+      height: 2px;    /* thickness of underline */
+      background-color: red;
+      transition: width 0.2s ease-in-out; /* animate width */
+    }
+
+    .line:hover::after ,
+    .line.active::after {
+      width: 100%; /* expand underline on hover */
+    }

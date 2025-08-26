@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Ace_Restaruant.Controllers.FoodController",
+    "Method": "GetAllFoodItems",
+    "RelativePath": "api/Food/Get all food items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ace_Restaruant.Controllers.FoodController",
+    "Method": "CreateFoodItem",
+    "RelativePath": "api/Food/Item created",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "foodItem",
+        "Type": "Ace_Restaruant.Models.AceRestaurant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

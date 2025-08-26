@@ -1,0 +1,6 @@
+@Ace_Restaruant_HostAddress = http://localhost:5122
+
+GET {{Ace_Restaruant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
